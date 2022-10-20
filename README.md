@@ -44,3 +44,9 @@ most by taking the least risk? So should a passenger wait to buy his ticket, or 
 he buy as early as possible?
 5. Verifying myths does price increase as we get near to departure date? Is Indigo
 cheaper than Jet Airways? Are morning flights expensive?
+
+
+# Project Link
+
+Kindly click on the below link to access project:
+https://flight-fare-prediction1.herokuapp.com/
